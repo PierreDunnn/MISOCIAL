@@ -1,0 +1,11 @@
+@media (max-width: 1199px) {
+  html {
+    font-size: 0.7rem;
+  }
+}
+
+@media (max-width: 991px) {
+  html {
+    font-size: 0.5rem;
+  }
+}

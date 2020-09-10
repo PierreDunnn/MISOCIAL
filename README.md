@@ -1,5 +1,5 @@
 # MISOCIAL
 Example of landing page
 
-![alt tag](Misocial.jpg )
+![alt tag](Coventic WebPage.png)
 
